@@ -7,6 +7,14 @@ Tumblr provides a few ways of accessing content.  Their new [V2 API](https://git
 
 TumblrSharp.Simple is a PCL that allows for browsing Tumblr *without* authenticating.
 
+# Installing
+
+Search for `TumblrSharp.Simple` in [NuGet](https://www.nuget.org/packages/TumblrSharp.Simple/), or use your Package Manager Console.
+
+```
+PM> Install-Package TumblrSharp.Simple
+```
+
 # Examples
 
 TumblrSharp.Simple provides a stateless static class, `TumblrClient`.
