@@ -17,6 +17,10 @@ PM> Install-Package TumblrSharp.Simple
 
 # Examples
 
+For an example application using the TumblrSharp.Simple library, see the [example repository](https://github.com/piedoom/TumblrSharp.Simple-Example).
+
+For simple code examples, continue reading.
+
 TumblrSharp.Simple provides a stateless static class, `TumblrClient`.
 
 ### Get the entirety of a page
