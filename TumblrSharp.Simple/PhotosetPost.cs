@@ -7,7 +7,7 @@ namespace TumblrSharp.Simple
         /// <summary>
 		/// Caption of the post.
 		/// </summary>
-        [JsonProperty(PropertyName = "caption")]
+        [JsonProperty(PropertyName = "photo-caption")]
         public string Caption { get; set; }
 
         /// <summary>
